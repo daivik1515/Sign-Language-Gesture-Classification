@@ -45,3 +45,33 @@ To thoroughly evaluate model performance, we’ll be assessing each CNN on:
 - **F1 Score**
   
 - **ROC Curve**
+
+## Requirements to run the code
+
+### Libraries used:
+- PyTorch: Deep learning library for building neural networks.
+- torchvision: PyTorch's computer vision library.
+- Pillow: Python Imaging Library used for image processing tasks.
+- pandas: Data manipulation and analysis library.
+- opencv-python: OpenCV library for computer vision tasks.
+- scikit-learn: Machine learning library for various algorithms and tools.
+- seaborn: Statistical data visualization library based on matplotlib.
+- matplotlib: Plotting library for creating static, animated, and interactive visualizations in Python.
+- numpy: Numerical computing library for handling arrays and matrices.
+- beautifulsoup4: Library for web scraping and parsing HTML and XML documents.
+- bs4: Alias for BeautifulSoup4, used for web scraping tasks.
+  
+## To run the ipynb files
+
+The files can be run directly after ensuring all the necessary libraries are present on colab. 
+We access the dataset directly from the dropbox, we unzip the data inside our code.
+
+## To train and validate model
+
+The files can be run directly for training and validating models for each architecture.
+We access the dataset directly from the dropbox, we unzip the data inside our code.
+
+## Instructions on how to run the pre-trained model on the provided sample test dataset
+
+You don't need anything, just open the code in collab and run the code as we have provided link to the dataset from dropbox identical to the data from kaggle.
+
